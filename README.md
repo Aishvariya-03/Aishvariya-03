@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 About Me:<br>Hello, I'm Aishvariya, a BCA graduate with a primary passion for cybersecurity and a strong interest in coding, web, and software development.<br><be>
+<br>Hello, I'm Aishvariya, a BCA graduate with a primary passion for cybersecurity and a strong interest in coding, web, and software development.<br><be>
 
 🔭 Current Focus:<br>My main focus is on cybersecurity, where I explore ethical hacking, network security, and threat analysis. I find joy in uncovering vulnerabilities and fortifying digital defenses.<br><be>
 
